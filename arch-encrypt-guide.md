@@ -1,8 +1,3 @@
-Perfect! I’ve prepared the **entire session as a single Markdown file content** you can copy in **one click**. Just select all of the text below and paste it into a file like `arch-encrypt-guide.md`.
-
----
-
-````markdown
 # Arch Linux Encrypted Root Auto-Install Guide
 
 ## 1. Kernel Parameters for Encrypted Root
